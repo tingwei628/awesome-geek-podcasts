@@ -195,6 +195,7 @@ A curated list of podcasts we like to listen to.
 * [Why Are Computers](http://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 * [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
 * [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
+* [brainfuck](https://brainfuck.now.sh/) - A podcast about mental health and tech.
 
 ## In Portuguese
 
@@ -280,7 +281,6 @@ A curated list of podcasts we like to listen to.
 * [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
 * [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
-* [brainfuck](https://brainfuck.now.sh/) - A podcast about mental health and tech
 
 ## In Chinese
 
